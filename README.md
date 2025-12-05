@@ -2,7 +2,7 @@
 
 **Module:** AB LDSCI7237 Artificial Intelligence Dissertation Project
 **Submission Phase:** Assessment Element 2 (AE2)
-**Author:** [Your Name]
+
 
 ## Abstract
 This dissertation project presents the development of a calibrated and leak-free predictive model for estimating round-win probabilities in professional *Counter-Strike 2 (CS2)*.
